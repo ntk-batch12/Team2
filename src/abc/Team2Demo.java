@@ -10,7 +10,8 @@ public class Team2Demo {
 		System.out.println("Cats are awesome");
 		
 		System.out.println("practice is good");
-
+		
+		System.out.println("diego team2");
 		/**
 
 		Team 1 
