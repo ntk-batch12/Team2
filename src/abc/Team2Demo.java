@@ -25,7 +25,7 @@ public class Team2Demo {
 
 		System.out.println("practice is good");
 		
-		System.out.println("diego team2");
+		System.out.println("diego team");
 		/**
 
 		Team 1 
