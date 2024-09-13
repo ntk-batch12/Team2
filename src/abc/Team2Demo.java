@@ -13,7 +13,7 @@ public class Team2Demo {
 		
 		
 		
-		System.out.println("jv is fun");
+		System.out.println("jv is fun fun");
 	}
 	
 	public static void sum(int a, int b) {
