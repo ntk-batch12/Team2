@@ -13,13 +13,22 @@ public class Team2Demo {
 		
 		
 		
-		System.out.println("jv is fun fun");
+		System.out.println("git is not fun");
 	}
 	
 	public static void sum(int a, int b) {
 		a = 1;
 		b = 10;
 		System.out.println(a + b);
+
+		System.out.println("practice is good");
+
+		/**
+
+		Team 1 
+
+
+			*/
 	}
 
 }
