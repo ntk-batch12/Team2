@@ -9,5 +9,11 @@ public class Team2Demo {
 		
 		System.out.println("Cats are awesome");
 	}
+	
+	public static void sum(int a, int b) {
+		a = 1;
+		b = 10;
+		System.out.println(a + b);
+	}
 
 }
