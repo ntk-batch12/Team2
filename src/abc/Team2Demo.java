@@ -6,6 +6,8 @@ public class Team2Demo {
 		
 		System.out.println("Hi Team 2");
 		
+		
+		System.out.println("Cats are awesome");
 	}
 
 }
